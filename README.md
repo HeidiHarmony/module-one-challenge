@@ -4,7 +4,7 @@
 
 **Author:** Heidi Harmony Carrier ~ tenibrae@gmail.com
 
-https://heidiharmony.github.io/module-one-challenge/Develop/<br>
+https://heidiharmony.github.io/module-one-challenge/<br>
 https://github.com/HeidiHarmony/module-one-challenge
 ![Screenshot](refactor-screenshot.png)
 
