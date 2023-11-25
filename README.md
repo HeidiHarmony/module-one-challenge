@@ -4,9 +4,9 @@
 
 **Author:** Heidi Harmony Carrier ~ tenibrae@gmail.com
 
-https://heidiharmony.github.io/module-one-challenge/Develop/index.html
+https://heidiharmony.github.io/module-one-challenge/Develop/<br>
 https://github.com/HeidiHarmony/module-one-challenge
-
+![Screenshot](refactor-screenshot.png)
 
 **Description:** For this assignment, we are tackling an on-the-job-ticket that involves refactoring existing code to make it more accessible, functional, and efficient.
 
