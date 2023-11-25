@@ -1,3 +1,5 @@
+/*Global attributes*/
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -9,6 +11,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Page header that holds the company name and navigation*/
+
 header {
     padding: 20px;
     padding-top: 15px;
@@ -16,6 +20,7 @@ header {
     color: #ffffff;
     font-size: 20px;
 }
+/*Text styling*/
 
 h1 {
     display: inline-block;
@@ -41,6 +46,8 @@ p {
     color: #d9dcd6;
 }
 
+/*Navigation position and appearance*/
+
 nav {
     display: inline;
     float: right;
@@ -59,17 +66,15 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+/*Hero/splash image of our team*/
 
-.our-team {
-    height: 100%;
+.hero {
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
-}
-
-.our-team img {
-    width: 100%;
 }
 
 .float-left {
@@ -81,6 +86,8 @@ a {
     float: right;
     margin-left: 25px;
 }
+
+/*Helpful company information*/
 
 .content {
     width: 75%;
@@ -100,9 +107,11 @@ a {
     max-height: 200px;
 }
 
+/*Sidebar Area with additional services*/
+
 .additional-services {
     margin-right: 20px;
-    padding: 55px 25px;
+    padding: 25px;
     clear: both;
     float: right;
     width: 20%;
@@ -115,11 +124,16 @@ a {
     color: #ffffff;
 }
 
+#last-service {
+    margin-bottom: 10px;
+}
+
 .service img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
+/*Footer*/
 
 footer {
     padding: 30px;
