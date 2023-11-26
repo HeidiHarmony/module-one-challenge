@@ -4,6 +4,9 @@
 
 **Author:** Heidi Harmony Carrier ~ tenibrae@gmail.com
 
+## Update
+**11/25/23** Added css comments, restored site appearance and original content, added screenshot to the README, moved application code out of the subfolder and into the root directory
+
 https://heidiharmony.github.io/module-one-challenge/<br>
 https://github.com/HeidiHarmony/module-one-challenge
 ![Screenshot](refactor-screenshot.png)
